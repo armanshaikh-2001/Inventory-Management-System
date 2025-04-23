@@ -93,6 +93,20 @@ inventory-management-gui/
 
 ## 📷 Screenshots & Demo
 
+<p align="center">
+  <img src="main.png" alt="App Screenshot" style="max-width: 90%; height: auto; border-radius: 12px;" />
+</p>
+
+<p align="center">
+  <img src="report.png" alt="App Screenshot" style="max-width: 90%; height: auto; border-radius: 12px;" />
+</p>
+
+<p align="center">
+  <img src="about.png" alt="App Screenshot" style="max-width: 90%; height: auto; border-radius: 12px;" />
+</p>
+
+
+
 
 
 
